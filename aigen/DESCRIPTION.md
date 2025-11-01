@@ -50,7 +50,7 @@ Not BI.
 ## 🏗️ Architecture (SaaS version)
 
 1. **Connectors** → Postgres, MySQL, Mongo, REST, S3, Kafka, etc.
-2. **Rule engine** → YAML or DSL defining invariants (similar to what I showed).
+2. **Rule engine** → YAML or DSL defining invariants.
 3. **Scheduler** → Cron/CI/Cloud run every N hours.
 4. **Result store** → append-only “audit ledger.”
 5. **Frontend** → “truth map” dashboard + PDF reports.
