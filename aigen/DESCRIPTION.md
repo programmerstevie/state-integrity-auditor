@@ -106,7 +106,3 @@ Optional: “Integrity Report” consulting add-on.
 
 > “We verify that your distributed systems agree on what’s true — before your customers or auditors find out they don’t.”
 
----
-
-In short: what you described isn’t a niche tool for Active911 — it’s the seed of a new class of reliability product: **cross-system state integrity assurance.**
-Active911 just happens to be your **first ideal case study** to validate it.
